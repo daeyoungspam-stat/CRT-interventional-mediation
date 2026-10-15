@@ -1,0 +1,12 @@
+^\.github$
+^\.gitignore$
+^\.gitattributes$
+^\.git$
+^scripts$
+^docs$
+^runs$
+^results$
+^.*\.Rcheck$
+^.*\.(tar\.gz|zip)$
+^.*\.log$
+

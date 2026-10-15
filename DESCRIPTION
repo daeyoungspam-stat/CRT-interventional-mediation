@@ -1,0 +1,17 @@
+Package: crtmedsim
+Type: Package
+Title: Reproduce Cluster-Randomized Mediation Simulations
+Version: 0.1.0
+Author: Simulation Reproduction Project
+Maintainer: Package maintenance <package-maintenance@example.org>
+Description: Reproduces a fixed simulation design for causal mediation in
+    cluster-randomized trials with post-treatment confounding. Provides
+    configuration, data generation, replication execution, result aggregation,
+    and figure and table generation around a checksum-verified simulation engine.
+License: file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.5.0)
+Imports: stats, utils, tools
+Suggests: SuperLearner, glmnet, ranger, data.table, ggplot2
+SystemRequirements: A working R executable for simulation subprocesses
+

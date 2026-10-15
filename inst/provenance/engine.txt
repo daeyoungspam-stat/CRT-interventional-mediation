@@ -1,0 +1,7 @@
+Design version: annals-v8-sl-glm-ranger-dgp9
+Estimator code signature: estimator-code-0717194216
+Reference configuration: 2000 replications; K = 50, 75, 100, 150; 5 folds
+Reference runtime: R 4.5.1; x86_64-pc-linux-gnu
+Reference aggregation package: data.table 1.18.4
+Source integrity: checksums.csv records the archived engine file hashes.
+
